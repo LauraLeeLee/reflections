@@ -20,6 +20,8 @@ organized? How would branches help?
     only having long id name..
 
 How do the diagrams help you visualize the branch structure?
+  helps to actually see how the branches related to one another ie: where their common
+  commit is, where there are commits that are not reachable from other branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
