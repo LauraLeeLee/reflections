@@ -4,8 +4,9 @@ local?
 
 2.  Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
+    For adding in changes in a logical manner for where you are working within
+    your project.
+    So Git doesn't add changes to your project that you aren't ready for.  
 
 3.  Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
