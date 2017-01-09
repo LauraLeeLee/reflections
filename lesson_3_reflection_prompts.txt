@@ -6,12 +6,17 @@ local?
 automatically stay up-to-date with your remote repository?
     For adding in changes in a logical manner for where you are working within
     your project.
-    So Git doesn't add changes to your project that you aren't ready for.  
+    So Git doesn't add changes to your project that you aren't ready for.
 
 3.  Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+    -Forks are clones made of repos only on GitHub. They allow for reference/credit
+     to the author of the original directory.
+    -Clones are copies of repos either from Github to your computer(local) or can be
+      copies of a local repo to another location on your computer.
+    -Branches are head commits with a label that allow you to 'branch off' in a direction
+      to perhaps try a different version of your project, or try a feature that you don't
+      quite yet want to be a part of your project.
 
 4.  What is the benefit of having a copy of the last known state of the remote
 stored locally?
